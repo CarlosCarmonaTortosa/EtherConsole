@@ -47,7 +47,7 @@ Antes de ejecutar la aplicación, es necesario configurar la URL del nodo Ethere
 
 ```csharp
 string nodeUrl = "http://localhost:8545"; // Cambia a la URL de tu nodo (mantener si usamos el anterior contenedor Docker de Ganache)
-string privateKey = "TU_CLAVE_PRIVADA"; // Reemplaza con tu clave privada (o una clave privada de pruebas de Ganacho, anteriormente explicado)
+string privateKey = "TU_CLAVE_PRIVADA"; // Reemplaza con tu clave privada (o una clave privada de pruebas de Ganache, anteriormente explicado)
 ```
 
 ## Uso
